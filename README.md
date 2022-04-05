@@ -3,5 +3,5 @@
 
 
 
-#Nujno zapustit' file SanyaZapusti.py
+#Nujno zapustit' file SanyaZapusti.py!
 
