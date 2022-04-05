@@ -1,1 +1,1 @@
-print('dick' * 69)
+print('dick' * 699)
